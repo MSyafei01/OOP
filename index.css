@@ -51,3 +51,9 @@ to {
     right: 100%;
 }
 }
+
+#apple {
+position: absolute;
+font-size: 35px;
+  transition: left 0.5s, top 0.5s; /* biar pergerakan halus */
+}
